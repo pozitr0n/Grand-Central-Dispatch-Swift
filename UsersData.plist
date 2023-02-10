@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allImages</key>
+	<array>
+		<string>user1</string>
+		<string>user2</string>
+		<string>user3</string>
+		<string>user4</string>
+		<string>user5</string>
+		<string>user6</string>
+		<string>user7</string>
+		<string>user8</string>
+		<string>user9</string>
+	</array>
+	<key>allNames</key>
+	<array>
+		<string>Jakc</string>
+		<string>Julia</string>
+		<string>Ken</string>
+		<string>Robin</string>
+		<string>Martin</string>
+		<string>Tiffany</string>
+		<string>Tim</string>
+		<string>Mycota</string>
+		<string>Oleg</string>
+	</array>
+	<key>allDates</key>
+	<array>
+		<string>12/03/2020</string>
+		<string>01/01/2021</string>
+		<string>15/02/2021</string>
+		<string>3 housr ago</string>
+		<string>21 min ago</string>
+		<string>16/09/2018</string>
+		<string>12 hours ago </string>
+		<string>31/12/2020</string>
+		<string>1 minute ago</string>
+	</array>
+	<key>allMessages</key>
+	<array>
+		<string>Hey!</string>
+		<string>How are you?</string>
+		<string>I bought a new thing :)</string>
+		<string>What&apos;s new?</string>
+		<string>Today is a sunny day, isn&apos;t it?</string>
+		<string>As myself, I&apos;m fine!</string>
+		<string>I&apos;m busy today.</string>
+		<string>We&apos;re going to the bar, and you?</string>
+		<string>I passed the driver&apos;s test !!!!!</string>
+	</array>
+</dict>
+</plist>
